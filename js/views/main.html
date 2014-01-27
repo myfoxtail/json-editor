@@ -1,0 +1,18 @@
+<div xmlns="http://www.w3.org/1999/html">
+	<div id="title">
+		<span>JSON Editor</span>
+	</div>
+	<div class="editor-container">
+		<div>
+			<input id="url" type="text" ng-model="url" placeholder="Type the address to get JSON" />
+			<span class="button" ng-click="getJSON();">Edit</span>
+		</div>
+
+		<tree json="json" style="margin-left: -45px; margin-top: 30px; display: block; margin-right: 300px;"></tree>
+		<div>
+			<span class="button cancel">Cancel</span><span class="button" ng-click="saveJSON();">Save</span>
+		</div>
+
+	</div>
+
+</div>
