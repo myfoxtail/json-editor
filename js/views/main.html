@@ -6,12 +6,12 @@
 		<div>
 			<input id="url" type="text" ng-model="url" placeholder="Type the address to get JSON" />
 			<span class="button" ng-click="getJSON();">Edit</span>
+			<div style=" float: right; margin-right: 30%;">
+				<span class="button" ng-click="saveJSON();">Save</span><span class="button cancel">Cancel</span>
+			</div>
 		</div>
 
-		<tree json="json" style="margin-left: -45px; margin-top: 30px; display: block; margin-right: 300px;"></tree>
-		<div>
-			<span class="button cancel">Cancel</span><span class="button" ng-click="saveJSON();">Save</span>
-		</div>
+		<tree json="test" test="kiss" ng-model="json" style="margin-left: -40px; margin-top: 30px; display: block; margin-right: 300px;"></tree>
 
 	</div>
 

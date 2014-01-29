@@ -67,16 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="78" selection-start="1865" selection-end="1865" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="645">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="70" selection-start="1660" selection-end="1660" vertical-scroll-proportion="-5.3636365" vertical-offset="335" max-vertical-offset="795">
+            <state line="22" column="84" selection-start="1871" selection-end="1871" vertical-scroll-proportion="-7.9166665" vertical-offset="140" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -85,8 +76,9 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="12" selection-start="230" selection-end="230" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="345">
+            <state line="9" column="55" selection-start="371" selection-end="379" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="345">
               <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#tree#0;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -96,7 +88,39 @@
       <file leaf-file-name="DirTree.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="115" selection-start="239" selection-end="239" vertical-scroll-proportion="0.18" vertical-offset="0" max-vertical-offset="500">
+            <state line="29" column="38" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.23440453" vertical-offset="311" max-vertical-offset="1350">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DirValidation.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/directives/DirValidation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="51" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+              <folding>
+                <marker date="1391005562000" expanded="true" signature="77:450" placeholder="{...}" />
+                <marker date="1391005562000" expanded="true" signature="545:901" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CtrlMain.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="33" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="446" max-vertical-offset="1035">
+              <folding>
+                <marker date="1391004693000" expanded="true" signature="1138:1170" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="129" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -116,16 +140,7 @@
       <file leaf-file-name="general.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/general.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="30" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CtrlMain.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="147" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="975">
+            <state line="15" column="30" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -142,11 +157,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/general.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/js/controllers/CtrlMain.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/views/main.html" />
+        <option value="$PROJECT_DIR$/js/controllers/CtrlMain.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/directives/DirValidation.js" />
         <option value="$PROJECT_DIR$/js/directives/DirTree.js" />
       </list>
     </option>
@@ -298,6 +314,9 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -536,12 +555,12 @@
       <changelist id="315532e7-2fcd-406c-bf7a-5aa1c9c1b58a" name="Default" comment="" />
       <created>1390729677689</created>
       <updated>1390729677689</updated>
-      <workItem from="1390729679347" duration="12042000" />
+      <workItem from="1390729679347" duration="35814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12042000" />
+    <option name="totallyTimeSpent" value="35814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="22" width="1392" height="878" extended-state="0" />
@@ -557,7 +576,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2913486" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -589,13 +608,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/general.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="0" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
@@ -605,43 +617,151 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="129" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="147" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="975">
-          <folding />
+        <state line="61" column="33" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="446" max-vertical-offset="1035">
+          <folding>
+            <marker date="1391004693000" expanded="true" signature="1138:1170" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="78" selection-start="1865" selection-end="1865" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="70" selection-start="1660" selection-end="1660" vertical-scroll-proportion="-5.3636365" vertical-offset="335" max-vertical-offset="795">
+        <state line="22" column="84" selection-start="1871" selection-end="1871" vertical-scroll-proportion="-7.9166665" vertical-offset="140" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="12" selection-start="230" selection-end="230" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="345">
+        <state line="9" column="55" selection-start="371" selection-end="379" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="345">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#tree#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/directives/DirValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="51" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <marker date="1391005562000" expanded="true" signature="77:450" placeholder="{...}" />
+            <marker date="1391005562000" expanded="true" signature="545:901" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="115" selection-start="239" selection-end="239" vertical-scroll-proportion="0.18" vertical-offset="0" max-vertical-offset="500">
+        <state line="29" column="38" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.23440453" vertical-offset="311" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sass-stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>json-editor</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

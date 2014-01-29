@@ -47,14 +47,18 @@ function CtrlMain($scope, $http) {
 			]
 		}
 	};
-	//$scope.json = test;
+	$scope.test = test;
+	$scope.kiss = 3;
 
 	$scope.getJSON = function(){
-		//console.log($scope.url);
 //		$http.get($scope.url).success(function(res){
 //
 //		})
 		$scope.json = test;
 
+	}
+
+	$scope.saveJSON = function() {
+		console.log($scope.test);
 	}
 }
