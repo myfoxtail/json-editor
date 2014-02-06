@@ -36,7 +36,7 @@ _jsonEditor.directive('tree', function($compile){
 					tbodyString += '<tr>';
 					for( var k in scope.json[i] ) {
 						if( !i ) theadString += '<td>' + k + '</td>';
-						tbodyString += '<td><input type="text" ng-model="json[' + i + '].' + k + '"/></td>';
+						tbodyString += '<td><input type="text" ng-change="function(this){console.log(this)}" ng-model="json[' + i + '].' + k + '"/></td>';
 					}
 					tbodyString += '</tr>';
 				}
@@ -57,13 +57,14 @@ _jsonEditor.directive('tree', function($compile){
 			 * @returns {Node}
 			 */
 			function createInputEL(scope) {
-				var input = $compile('<input type="text" ng-model="json"' + (( typeof scope.json == 'number' ) ? ' smartFloat ':'') + '>' +
-					'<span ng-click="saveJSON()" class="save-field"></span><span class="undo"></span>')(scope);
+				var input = $compile('<input type="text" ng-model="json"' + (( typeof scope.json == 'number' ) ? ' smartFloat ':'') + '>'
+					//+ '<span ng-click="saveJSON()" class="save-field"></span><span class="undo"></span>'
+				)(scope);
 				input.on('keyup', function(e) {
 					if( e.keyCode < 32 ) return;
 					this.style.border = '1px solid #60B044';
-					this.nextSibling.style.display = 'inline-block';
-					this.nextSibling.nextSibling.style.display = 'inline-block';
+					//this.nextSibling.style.display = 'inline-block';
+					//this.nextSibling.nextSibling.style.display = 'inline-block';
 				});
 
 				return input;
