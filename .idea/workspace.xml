@@ -73,10 +73,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DirTree.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="0.059366755" vertical-offset="0" max-vertical-offset="758">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DirTree.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="1.7216359" vertical-offset="0" max-vertical-offset="1710">
+            <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -110,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="code.angularjs.org/1.2.9/angular.min.js" />
         <option value="$PROJECT_DIR$/js/filters/filters.js" />
         <option value="$PROJECT_DIR$/js/controllers/CtrlMain.js" />
@@ -120,6 +137,7 @@
         <option value="$PROJECT_DIR$/js/directives/DirValidation.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/directives/DirTree.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -538,12 +556,12 @@
       <updated>1390729677689</updated>
       <workItem from="1390729679347" duration="43973000" />
       <workItem from="1391676291481" duration="13905000" />
-      <workItem from="1391713136899" duration="6924000" />
+      <workItem from="1391713136899" duration="7113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64802000" />
+    <option name="totallyTimeSpent" value="64991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="22" width="1392" height="878" extended-state="0" />
@@ -565,7 +583,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11851852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11851852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -652,13 +670,6 @@
         <state line="11" column="7" selection-start="156" selection-end="156" vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="2865" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="84" selection-start="1871" selection-end="1871" vertical-scroll-proportion="-7.9166665" vertical-offset="140" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="http://code.angularjs.org/1.2.9/angular.min.js">
       <provider selected="true" editor-type-id="httpFileEditor">
         <state />
@@ -690,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/directives/DirValidation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="28" selection-start="557" selection-end="557" vertical-scroll-proportion="0.41556728" vertical-offset="0" max-vertical-offset="758">
@@ -706,7 +710,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="1.7216359" vertical-offset="0" max-vertical-offset="1710">
+        <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="0.059366755" vertical-offset="0" max-vertical-offset="758">
           <folding />
         </state>
       </provider>
