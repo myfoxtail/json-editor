@@ -10,6 +10,6 @@ function CtrlMain($scope, $http, $compile) {
 	};
 
 	$scope.saveJSON = function() {
-		console.log($scope.test);
+		//console.log($scope.test);
 	}
 }

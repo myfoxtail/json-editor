@@ -67,8 +67,10 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
-              <folding />
+            <state line="8" column="24" selection-start="300" selection-end="300" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,19 +84,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="0.059366755" vertical-offset="0" max-vertical-offset="758">
+            <state line="3" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DirTree.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DirTree.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+            <state line="11" column="0" selection-start="333" selection-end="333" vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="1935">
               <folding />
             </state>
           </provider>
@@ -103,16 +105,7 @@
       <file leaf-file-name="CtrlMain.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="52" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="121" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="12" column="10" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -130,14 +123,14 @@
       <list>
         <option value="code.angularjs.org/1.2.9/angular.min.js" />
         <option value="$PROJECT_DIR$/js/filters/filters.js" />
-        <option value="$PROJECT_DIR$/js/controllers/CtrlMain.js" />
         <option value="$PROJECT_DIR$/css/general.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/js/views/main.html" />
         <option value="$PROJECT_DIR$/js/directives/DirValidation.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/directives/DirTree.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/directives/DirTree.js" />
+        <option value="$PROJECT_DIR$/js/controllers/CtrlMain.js" />
       </list>
     </option>
   </component>
@@ -556,12 +549,12 @@
       <updated>1390729677689</updated>
       <workItem from="1390729679347" duration="43973000" />
       <workItem from="1391676291481" duration="13905000" />
-      <workItem from="1391713136899" duration="7113000" />
+      <workItem from="1391713136899" duration="8205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64991000" />
+    <option name="totallyTimeSpent" value="66083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="22" width="1392" height="878" extended-state="0" />
@@ -583,7 +576,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11851852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11851852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -621,7 +614,9 @@
     <entry file="file://$PROJECT_DIR$/js/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -687,20 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="121" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="52" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/directives/DirValidation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="28" selection-start="557" selection-end="557" vertical-scroll-proportion="0.41556728" vertical-offset="0" max-vertical-offset="758">
@@ -708,16 +689,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
+    <entry file="file://$PROJECT_DIR$/js/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+        <state line="8" column="24" selection-start="300" selection-end="300" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="121" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.66442955" vertical-offset="0" max-vertical-offset="745">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/main.html">
+    <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
+        <state line="12" column="10" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
@@ -731,7 +721,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="0.059366755" vertical-offset="0" max-vertical-offset="758">
+        <state line="3" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="333" selection-end="333" vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="1935">
           <folding />
         </state>
       </provider>
