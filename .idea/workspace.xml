@@ -68,9 +68,7 @@
         <entry file="file://$PROJECT_DIR$/js/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,16 +76,7 @@
       <file leaf-file-name="DirTree.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="106" selection-start="1194" selection-end="1194" vertical-scroll-proportion="0.6968215" vertical-offset="0" max-vertical-offset="1635">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirValidation.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/directives/DirValidation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+            <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="1.7216359" vertical-offset="0" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -97,6 +86,15 @@
         <entry file="file://$PROJECT_DIR$/js/controllers/CtrlMain.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="52" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="121" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
@@ -113,24 +111,24 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/directives/DirValidation.js" />
         <option value="code.angularjs.org/1.2.9/angular.min.js" />
         <option value="$PROJECT_DIR$/js/filters/filters.js" />
         <option value="$PROJECT_DIR$/js/controllers/CtrlMain.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/general.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/js/directives/DirTree.js" />
         <option value="$PROJECT_DIR$/js/views/main.html" />
+        <option value="$PROJECT_DIR$/js/directives/DirValidation.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/directives/DirTree.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="36" />
-    <option name="width" value="2076" />
-    <option name="height" value="1322" />
+    <option name="x" value="48" />
+    <option name="y" value="22" />
+    <option name="width" value="1392" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -159,6 +157,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,7 +274,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -540,14 +538,15 @@
       <updated>1390729677689</updated>
       <workItem from="1390729679347" duration="43973000" />
       <workItem from="1391676291481" duration="13905000" />
+      <workItem from="1391713136899" duration="6924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57878000" />
+    <option name="totallyTimeSpent" value="64802000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="36" width="2076" height="1322" extended-state="0" />
+    <frame x="48" y="22" width="1392" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -560,19 +559,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2910569" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29024082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10324484" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15978368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11851852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -604,9 +603,7 @@
     <entry file="file://$PROJECT_DIR$/js/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -647,16 +644,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/general.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="525">
-          <folding />
-        </state>
+        <state line="15" column="21" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="156" selection-end="156" vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="2865">
-          <folding />
-        </state>
+        <state line="11" column="7" selection-start="156" selection-end="156" vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="2865" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -671,20 +664,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/general.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="62" selection-start="803" selection-end="803" vertical-scroll-proportion="0.16245487" vertical-offset="0" max-vertical-offset="831">
-          <folding />
-        </state>
+        <state line="9" column="62" selection-start="803" selection-end="803" vertical-scroll-proportion="0.16245487" vertical-offset="0" max-vertical-offset="831" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
@@ -696,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="43" selection-start="3377" selection-end="3377" vertical-scroll-proportion="0.63176894" vertical-offset="0" max-vertical-offset="831">
+        <state line="33" column="121" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
@@ -708,16 +690,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="105" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/directives/DirValidation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+        <state line="21" column="28" selection-start="557" selection-end="557" vertical-scroll-proportion="0.41556728" vertical-offset="0" max-vertical-offset="758">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/directives/DirTree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="106" selection-start="1194" selection-end="1194" vertical-scroll-proportion="0.6968215" vertical-offset="0" max-vertical-offset="1635">
+        <state line="87" column="148" selection-start="2503" selection-end="2503" vertical-scroll-proportion="1.7216359" vertical-offset="0" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>

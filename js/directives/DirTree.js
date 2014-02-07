@@ -34,9 +34,11 @@ _jsonEditor.directive('tree', function($compile){
 				var theadString = '', tbodyString = '';
 				for( var i = 0, j = scope.json.length; i < j; i++ ) {
 					tbodyString += '<tr>';
-					for( var k in scope.json[i] ) {
+					for( var k in scope.json[i] ) if(scope.json[i].hasOwnProperty(k)) {
 						if( !i ) theadString += '<td>' + k + '</td>';
-						tbodyString += '<td><input type="text" ng-change="function(this){console.log(this)}" ng-model="json[' + i + '].' + k + '"/></td>';
+						tbodyString += '<td><input type="text"' + checkTypeOfData(scope.json[i][k]) +
+							' ng-model="json[' + i + '].' + k + '"/></td>';
+						console.log(scope.json[i][k])
 					}
 					tbodyString += '</tr>';
 				}
@@ -50,6 +52,17 @@ _jsonEditor.directive('tree', function($compile){
 				)(scope);
 			}
 
+			function checkTypeOfData(data){
+				switch(typeof data) {
+					case 'number':
+						return ' ng-pattern="/^\\d+$/"';
+					case 'boolean':
+						return ' ng-pattern="/^(true|false)\\b/"';
+					default:
+						return '';
+				}
+			}
+
 			/**
 			 * Function createInputEL
 			 *
@@ -57,17 +70,9 @@ _jsonEditor.directive('tree', function($compile){
 			 * @returns {Node}
 			 */
 			function createInputEL(scope) {
-				var input = $compile('<input type="text" ng-model="json"' + (( typeof scope.json == 'number' ) ? ' smartFloat ':'') + '>'
-					//+ '<span ng-click="saveJSON()" class="save-field"></span><span class="undo"></span>'
+				return $compile('<input type="text" ng-model="json" '
+					+ checkTypeOfData(scope.json) + ' >'
 				)(scope);
-				input.on('keyup', function(e) {
-					if( e.keyCode < 32 ) return;
-					this.style.border = '1px solid #60B044';
-					//this.nextSibling.style.display = 'inline-block';
-					//this.nextSibling.nextSibling.style.display = 'inline-block';
-				});
-
-				return input;
 			}
 
 			return function (scope, iElement) {
