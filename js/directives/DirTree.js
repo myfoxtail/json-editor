@@ -7,6 +7,7 @@ _jsonEditor.directive('tree', function($compile) {
 	 * @returns {Boolean}
 	 */
 	function checkArrayToTable(array) {
+        if( array.length == 1 ) return false;
 		var tableObject = array[0];
 		for( var i = 1, l = array.length; i < l; i++ ) {
 			if( array[i] instanceof Object ) {
@@ -106,10 +107,12 @@ _jsonEditor.directive('tree', function($compile) {
 
 				compiledContents(scope, function(clone, scope) {
 					if( scope.json instanceof Array ) { // правила отображения массивов
-						if( checkArrayToTable(scope.json) ) {
-							iElement.append(createTableEl(scope));
-						} else {
-							iElement.append(createNodeEl(scope));
+                        console.log(scope.json)
+                        console.log(checkArrayToTable(scope.json))
+                        if( checkArrayToTable(scope.json) ) {
+                            iElement.append(createTableEl(scope));
+                        } else {
+                            iElement.append(createNodeEl(scope));
 							//iElement.append(createInputEL(scope));
 						}
 					} else if( scope.json instanceof Object ) { // правила отображения объектов
